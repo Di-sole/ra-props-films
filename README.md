@@ -1,4 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vtaetow1dxea1thh?svg=true)](https://ci.appveyor.com/project/Di-sole/ra-props-films)
+# Рейтинг фильмов
 
+[GitHub Pages](https://di-sole.github.io/ra-props-films/) 
 
 ## Getting Started with Create React App
 
