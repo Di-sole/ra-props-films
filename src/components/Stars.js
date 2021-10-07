@@ -27,7 +27,7 @@ Stars.defaultProps = {
 }
 
 Stars.propTypes = {
-	items: PropTypes.number
+	count: PropTypes.number
 }
 
 export default Stars;
